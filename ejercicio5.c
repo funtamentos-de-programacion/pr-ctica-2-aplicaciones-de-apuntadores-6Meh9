@@ -1,8 +1,9 @@
 #include<stdio.h>
 
 
-void pasarValor(int);
-void pasarReferencia(int *);
+void pasarValor(int); //No es funcion porque no dice lo que hace
+void pasarReferencia(int *); //Se les llama prototipos porque no dicen que hacen
+
 
 
 int main(){
